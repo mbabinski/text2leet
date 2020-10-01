@@ -4,4 +4,5 @@ CAUTION: this tool can quickly generate large output files! Lengthy input string
 
 CLI EXAMPLES:
 > python text2leet.py inputstring output_file.txt -sc st
+
 > python text2leet.py fluffy pet_name_word_list.txt -sl
